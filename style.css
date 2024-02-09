@@ -4,13 +4,13 @@
 }
 
 body {
-	background-color: white;
-	color: black;
+	background-color: black;
+	color: white;
 	font-family: Consolas;
 	height: 100vh;
 }
 
-.darkmode {
-	background-color: black;
-	color: white;
+.lightmode {
+	background-color: white;
+	color: black;
 }
