@@ -1,9 +1,12 @@
 html * {
-   background-color: black;
    font-family: Consolas;
 }
 
 h1 {
-  color: white;
   text-align: center;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
 }
