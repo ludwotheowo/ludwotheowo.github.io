@@ -1,14 +1,14 @@
 html * {
-   background-color: white;
-   color: black;
-   font-family: Consolas;
+  background-color: white;
+  color: black;
+  font-family: Consolas;
 }
 
 h1 {
-   text-align: center;
+  text-align: center;
 }
 
 .dark-mode {
-   background-color: black;
-   color: white;
+  background-color: black;
+  color: white;
 }
