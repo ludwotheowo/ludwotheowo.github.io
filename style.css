@@ -1,8 +1,14 @@
+html {
+	display: table;
+	margin: auto;
+}
+
 body {
 	background-color: white;
 	color: black;
+	display: table-cell;
 	font-family: Consolas;
-	text-align: center;
+	vertical-align: middle;
 }
 
 .darkmode {
