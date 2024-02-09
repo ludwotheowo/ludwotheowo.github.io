@@ -1,7 +1,7 @@
 body {
 	background-color: white;
 	color: black;
-	font: Consolas;
+	font-family: Consolas;
 	text-align: center;
 	vertical-align: center;
 }
