@@ -4,10 +4,13 @@
 }
 
 body {
+	align-items: center;
 	background-color: black;
 	color: white;
+	display: flex;
 	font-family: Consolas;
 	height: 99vh;
+	justify-content: center;
 }
 
 .center {
