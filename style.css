@@ -13,7 +13,7 @@ body {
 	justify-content: center;
 }
 
-.center {
+div {
 	align-items: center;
 	display: flex;
 	justify-content: center;
