@@ -21,12 +21,6 @@ body {
 	vertical-align: middle;
 }
 
-.center {
-	align-items: center;
-	display: flex;
-	justify-content: center;
-}
-
 .lightmode {
 	background-color: white;
 	color: black;
