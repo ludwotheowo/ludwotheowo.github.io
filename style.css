@@ -3,24 +3,13 @@
 	margin: 0px;
 }
 
-html, body {
-  height: 100%;
-	width: 100%;
-}
-
-html {
-  display: table;
-  margin: auto;
-	width: 100%;
-}
-
 body {
+	align-text: center;
 	background-color: black;
 	color: white;
-	display: table-cell;
+	display: flex;
 	font-family: Consolas;
 	vertical-align: middle;
-	width: 100%;
 }
 
 .lightmode {
