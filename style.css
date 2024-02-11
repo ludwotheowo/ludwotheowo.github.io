@@ -3,13 +3,18 @@
 	margin: 0px;
 }
 
-body {
-	align-text: center;
-	background-color: black;
-	color: white;
+body{
+	height: 95vh;
 	display: flex;
-	font-family: Consolas;
-	vertical-align: middle;
+	justify-content: center;
+	align-items: center;
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 5px;
 }
 
 .lightmode {
