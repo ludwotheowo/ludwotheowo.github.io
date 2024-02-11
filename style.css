@@ -3,14 +3,21 @@
 	margin: 0px;
 }
 
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
 body {
-	align-items: center;
 	background-color: black;
 	color: white;
-	display: flex;
+	display: table-cell;
 	font-family: Consolas;
-	height: 99vh;
-	justify-content: center;
+	vertical-align: middle;
 }
 
 .center {
