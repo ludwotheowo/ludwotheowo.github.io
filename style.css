@@ -5,12 +5,12 @@
 
 html, body {
   height: 100%;
-	width: 100%;
 }
 
 html {
   display: table;
   margin: auto;
+	width: 100%;
 }
 
 body {
@@ -19,6 +19,7 @@ body {
 	display: table-cell;
 	font-family: Consolas;
 	vertical-align: middle;
+	width: 100%;
 }
 
 .lightmode {
