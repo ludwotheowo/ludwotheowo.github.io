@@ -9,7 +9,7 @@ $('body').terminal({
         // this string can be written with ES6 - uncomment to test
         // this.echo(`Hello, ${what}. Wellcome to this terminal.`);
     },
-	lightmode function() {
+	lightmode: function() {
 		var element = document.body;
 		element.classList.toggle("lightmode");
 	}
