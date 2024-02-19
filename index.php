@@ -7,8 +7,9 @@
 	<title>ludwotheowo</title>
 </head>
 <body>
-	<form name=command>
-		<input type="text" name="command" id="command" placeholder="" />
+	<form action="commands.php">
+		<input type="text" name="command" id="command" placeholder="type 'help' for commands" required />
+		<input type="submit" name="enter" value="enter" />
 	</form>
 	<button onclick="lightmode()">light mode</button>
 </body>
