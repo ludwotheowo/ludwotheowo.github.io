@@ -7,7 +7,10 @@ switch ($command) {
     default:
         echo "Invalid command";
         break;
+    case 'lightmode':
+        lightmode();
+        break;
 }
-header("location: index.php");
+header("location: index.html");
 die();
 ?>
