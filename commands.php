@@ -4,7 +4,6 @@ switch ($command) {
     case 'help':
         echo "Help command text";
         break;
-    
     default:
         echo "Invalid command";
         break;
