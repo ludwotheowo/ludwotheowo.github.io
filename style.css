@@ -8,6 +8,7 @@ body {
 	color: white;
 	font-family: Consolas;
 	height: 99vh;
+	display: flex;
 	text-align: center;
 	vertical-align: middle;
 }
