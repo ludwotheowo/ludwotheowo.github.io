@@ -7,10 +7,9 @@ body {
 	background-color: black;
 	color: white;
 	font-family: Consolas;
-	height: 99vh;
 	padding: 10% 10% 10% 10%;
 }
-  
+
 .lightmode {
 	background-color: white;
 	color: black;
