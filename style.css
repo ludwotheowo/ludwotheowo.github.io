@@ -7,11 +7,7 @@ body {
 	background-color: black;
 	color: white;
 	font-family: Consolas;
-
 	height: 99vh;
-	display: flex;
-	align-items: center;
-	justify-content: center;
 }
   
 .lightmode {
