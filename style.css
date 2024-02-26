@@ -1,5 +1,5 @@
 * {
-	border: 0px;
+	order: 0px;
 	margin: 0px;
 }
   
@@ -10,6 +10,6 @@ body {
 	padding: 10% 10% 10% 10%;
 }
 
-footer {
-	vertical-align: bottom;
+div {
+    padding: 0% 0% 10% 0%;
 }
