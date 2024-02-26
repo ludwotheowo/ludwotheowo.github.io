@@ -13,3 +13,8 @@ body {
 div {
     padding: 0% 0% 5% 0%;
 }
+
+a {
+	color: white;
+	text-decoration: none;
+}
