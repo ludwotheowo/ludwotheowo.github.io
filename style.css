@@ -1,5 +1,5 @@
 * {
-	order: 0px;
+	border: 0px;
 	margin: 0px;
 }
   
@@ -7,7 +7,7 @@ body {
 	background-color: #111;
 	color: white;
 	font-family: Consolas;
-	padding: 10% 10% 10% 10%;
+	padding: 5% 5% 20% 20%;
 }
 
 div {
