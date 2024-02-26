@@ -10,10 +10,6 @@ body {
 	height: 99vh;
 }
 
-textarea {
-	maxlength 100%;
-}
-
 .lightmode {
 	background-color: white;
 	color: black;
