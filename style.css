@@ -9,6 +9,7 @@ body {
 	font-family: Consolas;
 	height: 99vh;
 	text-align: center;
+	vertical-align: middle;
 }
 
 .lightmode {
