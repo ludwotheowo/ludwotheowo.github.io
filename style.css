@@ -1,7 +1,7 @@
 * {
 	border: 0px;
 	margin: 0px;
-  }
+}
   
 body {
 	background-color: black;
@@ -12,9 +12,9 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-  }
+}
   
-  .lightmode {
+.lightmode {
 	background-color: white;
 	color: black;
-  }
+}
