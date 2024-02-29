@@ -10,11 +10,12 @@ body {
 	padding: 5% 5% 20% 20%;
 }
 
-h1 {
-	padding: 5% 0% 1% 0%;
-}
-
 a {
 	color: white;
 	text-decoration: none;
+}
+
+.title {
+	size: 64px;
+	padding: 5% 0% 1% 0%;
 }
