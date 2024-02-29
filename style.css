@@ -1,3 +1,8 @@
+::selection {
+	background-color: white;
+	color: black;
+}
+
 * {
 	border: 0px;
 	margin: 0px;
@@ -24,9 +29,4 @@ a:hover {
 	font-weight: bold;
 	font-size: 48px;
 	padding: 5% 0% 1% 0%;
-}
-
-::selection {
-	background-color: white;
-	color: black;
 }
