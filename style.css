@@ -16,6 +16,7 @@ a {
 }
 
 .title {
+	font-weight: bold;
 	font-size: 64px;
 	padding: 5% 0% 1% 0%;
 }
