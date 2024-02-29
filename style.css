@@ -8,6 +8,11 @@
 	margin: 0px;
 }
 
+.lightmode {
+	background-color: white;
+	color: black;
+}
+
 body {
 	background-color: #111;
 	color: white;
