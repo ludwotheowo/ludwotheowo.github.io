@@ -16,6 +16,7 @@
 body {
 	background-color: #111;
 	color: white;
+	height: 100%;
 	font-family: 'Courier New', Courier, monospace;
 	padding: 5% 20% 5% 20%;
 }
