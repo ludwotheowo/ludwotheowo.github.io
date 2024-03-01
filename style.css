@@ -20,6 +20,11 @@ body {
 	padding: 5% 20% 5% 20%;
 }
 
+.column {
+	float: left;
+	width: 50%;
+}
+
 a {
 	color: white;
 	text-decoration: none;
