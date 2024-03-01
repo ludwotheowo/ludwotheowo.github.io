@@ -8,26 +8,12 @@
 	margin: 0px;
 }
 
-.lightmode {
-	background-color: white;
-	color: black;
-}
-
 body {
 	background-color: black;
 	color: white;
 	font-family: 'Courier New', Courier, monospace;
 	height: 100%;
 	padding: 5% 20% 5% 20%;
-}
-
-.row {
-	display: flex;
-	padding: 2% 0% 2% 0%;
-}
-
-.column {
-	flex: 50%;
 }
 
 a {
@@ -40,7 +26,20 @@ a:hover {
 	color: black;
 }
 
+.lightmode {
+	background-color: white;
+	color: black;
+}
+
 .title {
-	font-weight: bold;
 	font-size: 48px;
+}
+
+.row {
+	display: flex;
+	padding: 2% 0% 2% 0%;
+}
+
+.column {
+	flex: 50%;
 }
