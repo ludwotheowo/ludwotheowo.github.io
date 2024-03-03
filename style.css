@@ -5,13 +5,13 @@
 
 * {
 	border: 0px;
+	font-family: 'Courier New', Courier, monospace;
 	margin: 0px;
 }
 
 body {
 	background-color: black;
 	color: white;
-	font-family: 'Courier New', Courier, monospace;
 	height: 100%;
 	padding: 5% 20% 5% 20%;
 }
