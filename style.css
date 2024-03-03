@@ -34,12 +34,3 @@ a:hover {
 .title {
 	font-size: 32px;
 }
-
-.row {
-	display: flex;
-	padding: 2% 0% 2% 0%;
-}
-
-.column {
-	flex: 50%;
-}
