@@ -5,19 +5,18 @@
 
 * {
 	border: 0px;
-	font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
 	margin: 0px;
 }
 
 body {
 	background-color: black;
-	color: white;
 	height: 100%;
 	padding: 5% 20% 5% 20%;
 }
 
 a {
-	color: white;
 	text-decoration: none;
 }
 
@@ -31,11 +30,11 @@ a:hover {
 	filter: invert(100%);
 }
 
-.title {
-	padding: 5% 0% 2% 0%;
-	font-size: 32px;
+.title, .menu {
+    font-size: 32px;
+    font-weight: bold;
 }
 
-.menu {
-	font-size: 32px;
+.title {
+	padding: 5% 0% 2% 0%;
 }
