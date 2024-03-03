@@ -27,8 +27,7 @@ a:hover {
 }
 
 .lightmode {
-	background-color: white;
-	color: black;
+	filter: invert(100%);
 }
 
 .title {
