@@ -12,7 +12,7 @@
 
 body {
 	background-color: black;
-	font-size: 2vw;
+	font-size: 64px;
 	padding: 5% 20% 5% 20%;
 }
 
@@ -22,7 +22,7 @@ div {
 
 h1 {
 	font-weight: normal;
-	font-size: 4vw;
+	font-size: 128px;
 }
 
 a {
@@ -40,5 +40,5 @@ a:hover {
 }
 
 .menu {
-	font-size: 2vw;
+	font-size: 64px;
 }
