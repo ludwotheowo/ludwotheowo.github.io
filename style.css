@@ -31,11 +31,12 @@ a:hover {
 	filter: invert(100%);
 }
 
-.title, .menu {
+.menu {
     font-size: 24px;
     font-weight: bold;
 }
 
 .title {
+	font-size: 64px;
 	padding: 5% 0% 2% 0%;
 }
