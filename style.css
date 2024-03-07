@@ -3,6 +3,11 @@
 	color: black;
 }
 
+.theme {
+	background-color: white;
+	filter: invert(100%);
+}
+
 * {
 	border: 0px;
 	color: white;
@@ -32,9 +37,4 @@ a {
 a:hover {
 	background-color: white;
 	color: black;
-}
-
-.theme {
-	background-color: white;
-	filter: invert(100%);
 }
