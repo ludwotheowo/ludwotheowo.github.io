@@ -5,15 +5,15 @@
 
 * {
 	border: 0px;
-    color: white;
-    font-family: monospace;
+	color: white;
+	font-family: monospace;
 	margin: 0px;
 }
 
 body {
 	background-color: black;
+	font-size: 4vw;
 	height: 100%;
-	overflow: hidden;
 	padding: 5% 20% 5% 20%;
 }
 
@@ -32,10 +32,10 @@ a:hover {
 }
 
 .menu {
-    font-size: 24px;
+	font-size: 24px;
 }
 
 .title {
-	font-size: 64px;
-	padding: 5% 0% 2% 0%;
+	font-size: 8vw;
+	padding: 50% 0% 5% 0%;
 }
