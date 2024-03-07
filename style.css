@@ -33,10 +33,14 @@ a:hover {
 
 .menu {
     font-size: 24px;
-    font-weight: bold;
 }
 
 .title {
 	font-size: 64px;
+	padding: 5% 0% 2% 0%;
+}
+
+.subtitle {
+	font-size: 32px;
 	padding: 5% 0% 2% 0%;
 }
