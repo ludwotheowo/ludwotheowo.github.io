@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'notosansmono';
-    src: url(notosansmono.ttf) format("truetype");
+    src: url('notosansmono.ttf') format("truetype");
 }
 
 * {
