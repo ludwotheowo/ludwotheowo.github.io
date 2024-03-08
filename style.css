@@ -3,13 +3,17 @@
 	color: black;
 }
 
+@font-face {
+    font-family: notosansmono;
+    src: url(notosansmono.ttf) format("truetype");
+}
+
 * {
 	border: 0px;
 	color: white;
 	font-family: notsansmono.ttf;
 	font-size: 20px;
 	margin: 0px;
-	src: url(notosansmono.ttf) format("truetype");
 }
 
 body {
