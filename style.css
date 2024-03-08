@@ -39,11 +39,11 @@ a:hover {
 	color: black;
 }
 
+.menu {
+	font-size: 24px;
+}
+
 .theme {
 	background-color: white;
 	filter: invert(100%);
-}
-
-.menu {
-	font-size: 24px;
 }
