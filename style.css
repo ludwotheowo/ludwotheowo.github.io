@@ -43,3 +43,7 @@ a:hover {
 	background-color: white;
 	filter: invert(100%);
 }
+
+.menu {
+	font-size: 24px;
+}
