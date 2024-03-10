@@ -19,16 +19,7 @@
 
 body {
 	background-color: black;
-	padding: 5% 10% 0% 10%;
-}
-
-div {
-	padding: 0% 0% 10% 0%;
-}
-
-h1 {
-	font-weight: normal;
-	font-size: 48px;
+    padding: 0% 10% 0% 10%;
 }
 
 a {
@@ -40,13 +31,27 @@ a:hover {
 	color: black;
 }
 
-.menu {
-	font-size: 24px;
-	overflow: hidden;
-	position: fixed;
-}
-
 .theme {
 	background-color: white;
 	filter: invert(100%);
+}
+
+.menu {
+    background-color: black;
+	font-size: 24px;
+	overflow: hidden;
+    padding: 2% 0% 2% 0%;
+	position: fixed;
+}
+
+.title {
+	font-size: 48px;
+}
+
+.topic {
+    padding: 10% 0% 10% 0%;
+}
+
+.section {
+    padding: 0% 0% 5% 0%;
 }
