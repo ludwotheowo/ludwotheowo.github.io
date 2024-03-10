@@ -31,11 +31,6 @@ a:hover {
 	color: black;
 }
 
-.theme {
-	background-color: white;
-	filter: invert(100%);
-}
-
 .menu {
     background-color: black;
 	font-size: 24px;
