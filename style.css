@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'notosansmono';
-    src: url('notosansmono.ttf') format("truetype");
+	font-family: 'notosansmono';
+	src: url('notosansmono.ttf') format("truetype");
 }
 
 * {
@@ -22,7 +22,7 @@ body {
 }
 
 div {
-  padding: 0% 0% 5% 0%;
+	padding: 0% 0% 5% 0%;
 }
 
 h1 {
@@ -41,6 +41,8 @@ a:hover {
 
 .menu {
 	font-size: 24px;
+	overflow: hidden;
+	position: fixed;
 }
 
 .theme {
