@@ -8,6 +8,12 @@
     src: url('assets/notosansmono.ttf') format("truetype");
 }
 
+@media screen and (min-width: 1200px) {
+    body {
+        padding: 0% 20% 0% 20%;
+    }
+}
+
 * {
     border: 0px;
     color: white;
