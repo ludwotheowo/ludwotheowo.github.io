@@ -32,6 +32,10 @@ a:hover {
 	color: black;
 }
 
+ul {
+  list-style: none;
+}
+
 .menu {
     background-color: black;
 	overflow: hidden;
