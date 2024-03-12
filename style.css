@@ -1,51 +1,51 @@
 ::selection {
-	background-color: white;
-	color: black;
+    background-color: white;
+    color: black;
 }
 
 @font-face {
-	font-family: 'notosansmono';
-	src: url('assets/notosansmono.ttf') format("truetype");
+    font-family: 'notosansmono';
+    src: url('assets/notosansmono.ttf') format("truetype");
 }
 
 * {
-	border: 0px;
-	color: white;
-	font-family: notosansmono;
-	font-size: 24px;
-	margin: 0px;
-	scroll-behavior: smooth;
+    border: 0px;
+    color: white;
+    font-family: notosansmono;
+    font-size: 24px;
+    margin: 0px;
+    scroll-behavior: smooth;
 }
 
 body {
-	background-color: black;
-	font-size: 24px;
+    background-color: black;
+    font-size: 24px;
     padding: 0% 10% 0% 10%;
 }
 
+ul {
+    list-style: none;
+}
+
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 a:hover {
-	background-color: white;
-	color: black;
-}
-
-ul {
-  list-style: none;
+    background-color: white;
+    color: black;
 }
 
 .menu {
     background-color: black;
-	overflow: hidden;
+    overflow: hidden;
     padding: 2% 0% 2% 0%;
-	position: fixed;
+    position: fixed;
     width: 100%;
 }
 
 .title {
-	font-size: 48px;
+    font-size: 48px;
 }
 
 .topic {
