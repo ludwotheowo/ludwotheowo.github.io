@@ -21,13 +21,9 @@ body {
     font-size: 24px;
 }
 
-ul {
-    list-style: none;
-}
+ul { list-style: none; }
 
-a {
-    text-decoration: none;
-}
+a { text-decoration: none; }
 
 a:hover {
     background-color: white;
@@ -43,10 +39,6 @@ a:hover {
     width: 100%;
 }
 
-.title {
-    font-size: 48px;
-}
+.title { font-size: 48px; }
 
-.topic {
-    padding: 20% 0% 40% 0%;
-}
+.topic { padding: 20% 0% 40% 0%; }
