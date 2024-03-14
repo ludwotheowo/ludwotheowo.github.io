@@ -4,21 +4,21 @@
 }
 
 @font-face {
-    font-family: 'helvetipixel';
-    src: url('assets/helvetipixel.ttf') format("truetype");
+    font-family: 'notosansmono';
+    src: url('assets/notosansmono.ttf') format("truetype");
 }
 
 * {
     border: 0px;
     color: white;
-    font-family: helvetipixel;
+    font-family: notosansmono;
     margin: 0px;
     scroll-behavior: smooth;
 }
 
 body {
     background-color: black;
-    font-size: 24px;
+    font-size: 32px;
 }
 
 ul {
