@@ -4,14 +4,14 @@
 }
 
 @font-face {
-    font-family: 'notosansmono';
-    src: url('assets/notosansmono.ttf') format("truetype");
+    font-family: 'helvetipixel';
+    src: url('assets/helvetipixel.ttf') format("truetype");
 }
 
 * {
     border: 0px;
     color: white;
-    font-family: notosansmono;
+    font-family: helvetipixel;
     margin: 0px;
     scroll-behavior: smooth;
 }
@@ -53,5 +53,5 @@ a:hover {
 }
 
 .topic {
-    padding: 20% 0% 0% 0%;
+    padding: 40% 0% 0% 0%;
 }
