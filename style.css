@@ -49,7 +49,7 @@ a:hover {
 }
 
 .title {
-    opacity: 20%;
+    opacity: 25%;
     font-size: 240px;
     position: absolute;
     z-index: -1;
