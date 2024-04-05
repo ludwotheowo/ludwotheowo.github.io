@@ -19,9 +19,9 @@
 body {
     background-color: black;
     background-image: url("assets/background.png");
-    background-position: center;
-    background-size: contain;
+    background-size: cover;
     font-size: 24px;
+    height: 100%;
     margin: auto;
     max-width: 700px;
 }
