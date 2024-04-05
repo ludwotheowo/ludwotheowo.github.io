@@ -18,13 +18,11 @@
 
 body {
     background-color: black;
-    background-image: url("assets/background.png");
-    background-size: cover;
-    font-size: 1em;
-    height: 100%;
+    background-image: url("assets/background.jpg");
+    background-size: contain;
+    font-size: 24px;
     margin: auto;
     max-width: 700px;
-    padding: 50px;
 }
 
 a {
@@ -37,6 +35,7 @@ a:hover {
 }
 
 .menu {
+    padding-top: 50px;
     position: fixed;
     text-align: center;
 }
