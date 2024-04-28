@@ -7,8 +7,11 @@
     <title>ludwotheowo</title>
     <link rel="icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/159533887">
     <style>
+      
       nothing to see here,
-      this shit is so basic you can make it in google docs * {
+      this shit is so basic you can make it in google docs
+      
+      * {
         margin: 0;
         padding: 0;
       }
@@ -25,10 +28,7 @@
         font-size: 16px;
         margin: auto;
         max-width: 600px;
-      }
-
-      div {
-        padding: 20px;
+        padding: 30px;
       }
 
       a {
@@ -39,9 +39,9 @@
         background-color: white;
         color: black;
       }
-
+      
       .text {
-        font-size: clamp(1.5em, 2vw, 1.5em);
+        font-size: clamp(1.2em, 2vw, 1.5em);
       }
 
       .title {
@@ -51,23 +51,25 @@
 
       .footer {
         text-align: center;
-        font-size: clamp(1em, .5vw, 1em);
+        font-size: clamp(1em, 1vw, 1em);
+        padding-top: 20px;
       }
-
     </style>
   </head>
 
   <body>
-    <div class="title">
+    <p class="title">
       ludwotheowo
-    </div>
+    </p>
 
-    <div class="text">
+    <p class="text">
       is an italian dude - born in 2005
-    </div>
+    </p>
 
-    <div class="text">
-      best interested in (click to expand)<br />
+    <!-- first fieldset starts here -->
+    <fieldset class="text">
+      <legend>best interested in</legend>
+
       <details>
         <summary>myself</summary>
         <span>
@@ -192,10 +194,13 @@
           <br />
         </span>
       </details>
-    </div>
+    </fieldset>
 
-    <div class="text">
-      personal stuff<br />
+    <br />
+    <!-- second fieldset starts here -->
+    <fieldset class="text">
+      <legend>personal stuff</legend>
+
       <details>
         <summary>wishlist</summary>
         <span>
@@ -360,10 +365,10 @@
           <br />
         </span>
       </details>
-    </div>
+    </fieldset>
 
-    <div class="footer">
-      made with <3 - source code on github </div>
+    <p class="footer">
+      made with <3 - source code on github </p>
   </body>
 
 </html>
