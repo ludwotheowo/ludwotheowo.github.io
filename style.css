@@ -18,7 +18,11 @@ body {
 
 	margin: auto;
 	max-width: 600px;
-	padding: 30px;
+	padding: 20px;
+}
+
+fieldset {
+	padding: 10px 0px 10px 0px;
 }
 	
 a {
@@ -35,6 +39,7 @@ ul {
 }
 
 .title {
+	text-align: center;
 	font-size: 6em;
 	font-weight: bold;
 	text-shadow: 0 0 4px #ddd;
@@ -48,7 +53,6 @@ ul {
 .footer {
 	text-align: center;
 	font-size: 1em;
-	padding-top: 20px;
 }
 
 @media (max-width: 700px) {
